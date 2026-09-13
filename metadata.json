@@ -1,0 +1,6 @@
+{
+  "name": "DR Planner",
+  "description": "Aplicativo de planejamento de orçamento pessoal premium com entradas de renda, despesas, e metas de poupança.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
